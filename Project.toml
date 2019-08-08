@@ -1,0 +1,4 @@
+name = "BCODMOTools"
+uuid = "280b2138-b9a1-11e9-1d98-f56df254ad40"
+authors = ["Benoit Pasquier <pasquieb@uci.edu>"]
+version = "0.1.0"
